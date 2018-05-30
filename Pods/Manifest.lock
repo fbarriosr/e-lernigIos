@@ -1,0 +1,12 @@
+PODS:
+  - YouTubePlayer-Swift (1.0)
+
+DEPENDENCIES:
+  - YouTubePlayer-Swift (~> 1.0)
+
+SPEC CHECKSUMS:
+  YouTubePlayer-Swift: ae82f4bcb504162a872b852596a9dc1fa3828c34
+
+PODFILE CHECKSUM: 14726d5391f314b8056bf3e4d97f0216492214be
+
+COCOAPODS: 1.3.1
